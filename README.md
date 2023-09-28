@@ -1,5 +1,5 @@
 # Robert Gannon
 
-# Junior Web Developer
+## Junior Web Developer
 
 About Me
